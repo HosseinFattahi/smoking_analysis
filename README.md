@@ -1,6 +1,4 @@
-**this data set from kaggle:
-```bash
-https://www.kaggle.com/datasets/mitul1999/100-years-of-smoking-global-trends-1924-2023
+
 
 # World Smoking History Analysis
 
@@ -28,3 +26,5 @@ The analysis includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/HosseinFattahi/smoking_analysis.git
+
+   https://www.kaggle.com/datasets/mitul1999/100-years-of-smoking-global-trends-1924-2023
